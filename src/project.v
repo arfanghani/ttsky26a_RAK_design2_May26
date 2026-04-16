@@ -4,7 +4,6 @@
  */
 
 `default_nettype none
-
 module tt_um_top (
     input  wire [7:0] ui_in,
     output wire [7:0] uo_out,
