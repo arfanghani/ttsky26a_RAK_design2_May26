@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title: "Approximate Logic Unit"      
-  author: "Hazem Marar"      
+  author: "test"      
   discord: ""      
   description: "ASIC implementation of an Approximate Logic Unit"       
   language: "Verilog" 
