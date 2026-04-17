@@ -26,7 +26,7 @@ module tb;
 
   always #5 clk = ~clk;
 
-  // ✅ waveform dump (ONLY when FST= is empty)
+  // waveform dump
   initial begin
     $dumpfile("tb.vcd");
     $dumpvars(0, tb);
