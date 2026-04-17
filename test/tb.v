@@ -13,7 +13,7 @@ module tb;
   wire [7:0] uio_out;
   wire [7:0] uio_oe;
 
-  tt_um_top dut (
+  tt_um_arfanghani_design2_top dut (
       .ui_in(ui_in),
       .uio_in(uio_in),
       .uo_out(uo_out),
