@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title: "Approximate Logic Unit"      
-  author: "test"      
+  title: "Multi-Mode Sensor Signal Processor"      
+  author: "AG-Emirates Chip Competence"      
   discord: ""      
-  description: "ASIC implementation of an Approximate Logic Unit"       
+  description: "A multi-mode digital signal processing unit supporting filtering, accumulation, edge detection, and nonlinear transformation."       
   language: "Verilog" 
   clock_hz: 50000000       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -18,9 +18,6 @@ project:
   # Don't forget to also update `PROJECT_SOURCES` in test/Makefile.
   source_files:
     - "project.v"
- 
-
-
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
