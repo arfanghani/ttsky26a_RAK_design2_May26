@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title: "Multi-Mode Sensor Signal Processor"      
-  author: "AG-Emirates Chip Competence"      
+  author: "AG1- Ghani Lab - Emirates Chip Competence"      
   discord: ""      
   description: "A multi-mode digital signal processing unit supporting filtering, accumulation, edge detection, and nonlinear transformation."       
   language: "Verilog" 
